@@ -52,7 +52,7 @@ import pandas as pd
 
 # Get data from gridstatus.io
 
-API_Key = "1526924d7f1399d27cbcf46da03c03ed"
+API_Key = "#####################"
 client = GridStatusClient(API_Key)
 
 # Select CAISO Pricing Node
